@@ -48,7 +48,7 @@ I don't know if I will be here tomorrow. But I do know that if I am not, it will
 
 By God's grace and by his will, and unless my story on earth is reaching it's final chapter, I will be here for you. I will be present.
 
-God once told his son, <q>You are my son, whom I love; with you I am well&ndash;pleased.</q>[^1] I've found more comfort in these words the last few years than ever before, because <q>I have been crucified with Christ and I no longer live, but Christ lives in me. The life I now live in the body, I live by faith in the Son of God, who loved me and gave himself up for me.</q>[^2].
+God once told his son, <q>You are my son, whom I love; with you I am well&ndash;pleased.</q>[^1] I've found more comfort in these words the last few years than ever before, because <q>I have been crucified with Christ and I no longer live, but Christ lives in me. The life I now live in the body, I live by faith in the Son of God, who loved me and gave himself up for me.</q>[^2]</sup>
 
 What this means, monkey, is that whatever is true of Jesus is true of me in God's eyes. Just as he says to Jesus, <q>you are my beloved Son, in whom I am well&ndash;pleased</q>, so, too, I am one of his beloved sons. God is well&ndash;pleased with me through Jesus. Nothing can change that.
 
@@ -66,5 +66,5 @@ Love,
 Your daddy.
 
 ## Footnotes
-[^1]: Matthew 3:17
-[^2]: Galatians 2:20
+- [1.] Matthew 3:17
+- [2.] Galatians 2:20

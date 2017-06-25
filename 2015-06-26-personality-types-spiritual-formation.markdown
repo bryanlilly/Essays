@@ -1,19 +1,22 @@
 ---
-layout: post
-title:  "Personality Types and Spiritual Formation"
-date:   2015-06-26 10:24:09
+author: bryan
+title: Personality Types and Spiritual Formation
+slug: personality-types-spiritual-formation
+canonical: /essays/personality-types-spiritual-formation
+date-original: 2015-06-26 10:24:09
+date: June 26, 2015
 categories:
   - Spiritual Formation
 tags:
   - personality types
   - personality typology
-excerpt: "Should we use personality test results in our spiritual formation?"
+excerpt: Should we use personality test results in our spiritual formation?
 ---
 > <q>Our wisdom, in so far as it outght to be deemed true and solid wisdom, consists almost entirely of two parts: the knowledge of God and of ourselves. But as these are connected together by many ties, it is not easy to determine which of the two preceds and gives birth to the other.</q>
-> <cite>&mdash; John Calvin</cite>[^1]
+> <cite>&mdash; John Calvin[^1]</cite>
 
 ><q>Christ plays in ten thousand places.</q>
-> <cite>&mdash; Gerard Manley Hopkins.[^2]
+> <cite>&mdash; Gerard Manley Hopkins.[^2]</cite>
 
 ## Formation and Personality
 Spiritual formation drives a lot of the essays that are on and will appear on this site. Formation is at the heart of Christianity, but what exactly it is and what exactly it looks like are often neglected in much of our modern, Western Christianity. One area that makes the question <q>What does spiritual formation look like?</q> so difficult is that human beings are incredibly complex. What formation looks like for one person may not look the same for another. In a culture that wants a five step plan for change in 5 minutes, the intricacies and time commitment necessary for formation just isn't palatable. But, they are necessary.
@@ -104,12 +107,12 @@ First, interpret your personality types through the lens of the Lord's glory. As
 Second, interpret your personality types within a community. One of the affects of the Fall and our sinfulness is that we are not able to fully see ourselves as we really are. We all have blind spots. That is why formation is as much, if not more so, a communal event as it is individual. We need others who love us enough to challenge us. Also, the fullness of God's character is displayed in the many personalities he has created. When you are with others, you are able to contemplate the images of God in them, and they in you, and see God in ways that you cannot see him alone.
 
 ## Footnotes
-[^1]: Calvin, John. <em>Institutes of the Christian Religion</em>.
-[^2]: Hopkins, Gerard Manley. <em>As Kingfishers Catch Fire</em>.
-[^3]: Gropnik, Alison. "Time to Retire the Simplicity of Nature vs. Nurture." <a href="http://www.wsj.com/news/articles/SB10001424052702304302704579334954138196792">http://www.wsj.com/news/articles/SB10001424052702304302704579334954138196792</a>
-[^4]:  For more information on the theological role of science, refer back to [Mental Illness and the Church §§ The Cultural Mandate and Science](http://bryanlilly.com/essays/mental-illness-and-the-church/#the-cultural-mandate-and-science).
-[^5]: Cf. Galatians 5:22-25.
-[^6]: Cf. Romans 3:23
+- [1.] Calvin, John. <em>Institutes of the Christian Religion</em>.
+- [2.] Hopkins, Gerard Manley. <em>As Kingfishers Catch Fire</em>.
+- [3.] Gropnik, Alison. "Time to Retire the Simplicity of Nature vs. Nurture." <a href="http://www.wsj.com/news/articles/SB10001424052702304302704579334954138196792">http://www.wsj.com/news/articles/SB10001424052702304302704579334954138196792</a>
+- [4.]  For more information on the theological role of science, refer back to [Mental Illness and the Church §§ The Cultural Mandate and Science](http://bryanlilly.com/essays/mental-illness-and-the-church/#the-cultural-mandate-and-science).
+- [5.] Cf. Galatians 5:22-25.
+- [6.] Cf. Romans 3:23
 
 *[MBTI]: Myers&ndash;Briggs Type Indicator
 *[DISC]: Dominance, Inducement, Submission, Compliance

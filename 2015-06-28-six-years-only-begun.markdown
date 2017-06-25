@@ -118,11 +118,13 @@ Audrey&mdash;you have the most incredible, beautiful mother in the world, and I 
 And, that we will be on, because tomorrow is a new day, and it will be the greatest day of our lives. And so will the next, and the next, until the day that there are no more days and we will take part in that final wedding party when God comes down to be with his people forever. And everything sad will become untrue.
 
 ## Footnotes
-[^1]: It's not that crazy that I can remember the day. 05/06/07 is pretty easy to remember. I probably did that on purpose so I wouldn't forget while we were dating.
-[^2]: I am lying through my e&ndash;teeth.
-[^3]: I really, REALLY don't recommend this method of finding a spouse. I think it worked in my case because God pitied me.
-[^4]: I say forever; She would probably say a few seconds.
-[^5]: Audrey, if you're reading this one day, I should note two things: 1) I've been able to afford webhosting for a really long time, and 2) That's from the movie Toy Story. We should watch it one day if we haven't already. Why is it in our vows? Well, you'd have to know our pastor, Andy Smith. Then it would all make sense. I hope you get to meet him one day.
+- [1.] It's not that crazy that I can remember the day. 05/06/07 is pretty easy to remember. I probably did that on purpose so I wouldn't forget while we were dating.
+- [2.] I am lying through my e&ndash;teeth.
+- [3.] I really, REALLY don't recommend this method of finding a spouse. I think it worked in my case because God pitied me.
+- [4.] I say forever; She would probably say a few seconds.
+- [5.] Audrey, if you're reading this one day, I should note two things: 1) I've been able to afford webhosting for a really long time, and 2) That's from the movie Toy Story. We should watch it one day if we haven't already. Why is it in our vows? Well, you'd have to know our pastor, Andy Smith. Then it would all make sense. I hope you get to meet him one day.
 
+<br><br>
 *[WVU]: West Virginia University
+<br>
 *[CMA]: Christian and Missionary Alliance
